@@ -1,0 +1,38 @@
+
+footer{
+    padding-top: 5em;
+    padding-bottom: 3em;
+}
+
+/* .home .navbar {
+    margin: 0; 
+} */
+
+html, body, #map-canvas {
+    height: 100%;
+    margin: 0;
+    padding: 0; 
+}
+
+html, body, container, .row {
+    padding-top: 25px;
+}
+
+/* body{
+    padding-top: 50px;
+} */
+
+/* .spaced {
+    margin-bottom: 24px; 
+}
+
+.special:hover, .special:focus {
+    text-decoration: none;
+    color: #aa3533; 
+}
+
+.special {
+    text-decoration: none;
+    color: #c84a48; 
+} */
+    
