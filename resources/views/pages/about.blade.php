@@ -12,7 +12,7 @@
             <p class="alert alert-warning">
                 <strong>
                     <i class="fa fa-warning"></i> Cette application a été développée par 
-                    <a target="_blank" href="http://twitter.com/aka_fawase">Aka Fawase</a> à des fins d'apprentissage.
+                    <a target="_blank" href="http://twitter.com/aka_fawase">Aka Fawase Damilola</a> à des fins d'apprentissage.
                 </strong>
             </p>
         </div>
